@@ -4,9 +4,17 @@
 3. Setup the Project (First-time setup only)  
 If you are running this project for the first time, follow these steps:
 - Open a terminal or command prompt.
-- Navigate to the project directory:
+- Make the project directory and move to the path:
 ```
 cd C:\xampp\htdocs\dev3-laravel\laravel-insta
+```
+- Clone this project
+```
+git clone https://github.com/REIHO-SHIMOMUKAI/insta.git
+```
+- move to the following path:
+```
+cd insta
 ```
 - Install dependencies:
 ```
